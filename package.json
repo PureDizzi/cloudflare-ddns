@@ -1,0 +1,26 @@
+{
+  "name": "cloudflare-ddns",
+  "version": "1.0.0",
+  "description": "Change Cloudflare records to your current IP address",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "records": "node records.js"
+  },
+  "author": "Marcus Nardizzi",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "inquirer": "^7.3.3",
+    "public-ip": "^4.0.2"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.9.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}

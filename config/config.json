@@ -1,0 +1,14 @@
+{
+    "email": "",
+    "globalAPIKey": "",
+    "records": [
+        {
+            "id": "",
+            "zoneId": "",
+            "name": "",
+            "type": "A",
+            "ttl": 1,
+            "proxied": false
+        }
+    ]
+}
