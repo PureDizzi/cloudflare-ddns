@@ -3,7 +3,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -85,18 +84,14 @@ Marcus Nardizzi - [@MarcusNardizzi](https://twitter.com/MarcusNardizzi) - marcus
 
 Project Link: [https://github.com/PureDizzi/cloudflare-ddns](https://github.com/PureDizzi/cloudflare-ddns)
 
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/PureDizzi/cloudflare-ddns.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/PureDizzi/cloudflare-ddns.svg?style=for-the-badge
 [contributors-url]: https://github.com/PureDizzi/cloudflare-ddns/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/PureDizzi/cloudflare-ddns.svg?style=flat-square
-[forks-url]: https://github.com/PureDizzi/cloudflare-ddns/network/members
-[stars-shield]: https://img.shields.io/github/stars/PureDizzi/cloudflare-ddns.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/PureDizzi/cloudflare-ddns?style=for-the-badge
+[forks-url]: https://github.com/PureDizzi/cloudflare-ddns/network
+[stars-shield]: https://img.shields.io/github/stars/PureDizzi/cloudflare-ddns?style=for-the-badge
 [stars-url]: https://github.com/PureDizzi/cloudflare-ddns/stargazers
-[issues-shield]: https://img.shields.io/github/issues/PureDizzi/cloudflare-ddns.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/PureDizzi/cloudflare-ddns?style=for-the-badge
 [issues-url]: https://github.com/PureDizzi/cloudflare-ddns/issues
-[license-shield]: https://img.shields.io/github/license/PureDizzi/cloudflare-ddns.svg?style=flat-square
-[license-url]: https://github.com/PureDizzi/cloudflare-ddns/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?logo=linkedin&colorB=555&style=for-the-badge&
 [linkedin-url]: https://www.linkedin.com/in/marcusnardizzi/
