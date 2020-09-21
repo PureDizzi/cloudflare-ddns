@@ -88,15 +88,15 @@ Project Link: [https://github.com/PureDizzi/cloudflare-ddns](https://github.com/
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/PureDizzi/cloudflare-ddns.svg?style=flat-square
 [contributors-url]: https://github.com/PureDizzi/cloudflare-ddns/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/PureDizzi/cloudflare-ddns.svg?style=flat-square
 [forks-url]: https://github.com/PureDizzi/cloudflare-ddns/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/PureDizzi/cloudflare-ddns.svg?style=flat-square
 [stars-url]: https://github.com/PureDizzi/cloudflare-ddns/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/PureDizzi/cloudflare-ddns.svg?style=flat-square
 [issues-url]: https://github.com/PureDizzi/cloudflare-ddns/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/PureDizzi/cloudflare-ddns.svg?style=flat-square
 [license-url]: https://github.com/PureDizzi/cloudflare-ddns/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/marcusnardizzi/
